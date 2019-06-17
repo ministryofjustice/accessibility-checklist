@@ -6,6 +6,8 @@
 
 - [ ] [All form inputs have explicit labels](https://accessibility.18f.gov/forms/)
 
+- [ ] [Page content has a meaningful heading hierarchy](https://accessibility.18f.gov/headings/)
+
 - [ ] [All relevant images use an img tag and have alt attributes](https://accessibility.18f.gov/images/)
     
 - [ ] [Multimedia has appropriate captioning and audio description](https://accessibility.18f.gov/multimedia/)
