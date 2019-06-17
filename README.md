@@ -11,13 +11,15 @@ To use this, copy and paste the following into a [Pull Request template](https:/
 
 - [ ] [All form inputs have explicit labels](https://accessibility.18f.gov/forms/)
 
-- [ ] [All relevant images use an img tag](https://accessibility.18f.gov/images/)
-
-- [ ] [All images have alt attributes](https://accessibility.18f.gov/images/)
+- [ ] [All relevant images use an img tag and have alt attributes](https://accessibility.18f.gov/images/)
     
 - [ ] [Multimedia has appropriate captioning and audio description](https://accessibility.18f.gov/multimedia/)
 
 - [ ] [Text has sufficient color contrast](https://accessibility.18f.gov/color/) (a contrast ratio of 4.5:1 with the background)
+
+- [ ] [All content is readable when the page is zoomed in to 400%](https://usability.yale.edu/web-accessibility/articles/zoom-resizing-text)
+
+- [ ] [No red flags when running WAVE on the page](http://wave.webaim.org/)
 
 For the full list, see [18F's Accessibility Checklist](https://accessibility.18f.gov/checklist/).
 
