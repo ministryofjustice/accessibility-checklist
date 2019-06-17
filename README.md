@@ -5,19 +5,19 @@ To use this, copy and paste the following into a [Pull Request template](https:/
 
 ## Essential checks
 
-- [ ] Site is keyboard accessible - All interactions can be accessed with a keyboard
+- [ ] [Site is keyboard accessible](https://accessibility.18f.gov/keyboard/) - all interactions can be accessed with a keyboard
 
-- [ ] Site is free of keyboard traps - the keyboard focus is never trapped in a loop
+- [ ] [Site is free of keyboard traps](https://accessibility.18f.gov/keyboard/#keyboard-trap) - the keyboard focus is never trapped in a loop
 
-- [ ] All form inputs have explicit labels
+- [ ] [All form inputs have explicit labels](https://accessibility.18f.gov/forms/)
 
-- [ ] All relevant images use an img tag
+- [ ] [All relevant images use an img tag](https://accessibility.18f.gov/images/)
 
-- [ ] All images have alt attributes
+- [ ] [All images have alt attributes](https://accessibility.18f.gov/images/)
     
-- [ ] Multimedia has appropriate captioning and audio description
+- [ ] [Multimedia has appropriate captioning and audio description](https://accessibility.18f.gov/multimedia/)
 
-- [ ] Text has sufficient color contrast ( acontrast ratio of 4.5:1 with the background)
+- [ ] [Text has sufficient color contrast](https://accessibility.18f.gov/color/) (a contrast ratio of 4.5:1 with the background)
 
 For the full list, see [18F's Accessibility Checklist](https://accessibility.18f.gov/checklist/).
 
